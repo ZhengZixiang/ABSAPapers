@@ -11,7 +11,7 @@ Suggestions about adding papers, repositories and other resource are welcomed!
 
 欢迎新增论文、代码仓库与其他资源等建议！
 
-## Aspect Based Sentiment Analysis
+## Paper
 - **`TD-LSTM TC-LSTM`** Effective LSTMs for Target-Dependent Sentiment Classification (COLING 2016) [[paper]](https://www.aclweb.org/anthology/C16-1311)[[code]](https://drive.google.com/drive/folders/17RF8MZs456ov9MDiUYZp0SCGL6LvBQl6)
 - **`ATAE-LSTM`** Attention-based LSTM for Aspect-level Sentiment Classification (EMNLP 2016) [[paper]](https://aclweb.org/anthology/D16-1058)
 - **`H-LSTM`** A Hierarchical Model of Reviews for Aspect-based Sentiment Analysis (EMNLP 2016) [[paper]](https://arxiv.org/pdf/1609.02745.pdf)
