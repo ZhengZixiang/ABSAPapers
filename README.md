@@ -42,15 +42,15 @@ Suggestions about adding papers, repositories and other resource are welcomed!
 - **`BERT-SPC`** BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding (NAACL 2019) [[paper]](https://www.aclweb.org/anthology/N19-1423/)
 - **`BERT-PT`** BERT Post-Training for Review Reading Comprehension and Aspect-based Sentiment Analysis  (NAACL 2019) [[paper]](https://www.aclweb.org/anthology/N19-1242)[[code]](https://github.com/howardhsu/BERT-for-RRC-ABSA)
 - Utilizing BERT for Aspect-Based Sentiment Analysis via Constructing Auxiliary Sentence (NAACL 2019) [[paper]](https://www.aclweb.org/anthology/N19-1035/)[[code]](https://github.com/HSLCY/ABSA-BERT-pair)
-- **`AEN-BERT`** Attentional Encoder Network for Targeted Sentiment Classification (CoPR 2019) [[paper]](https://arxiv.org/pdf/1902.09314.pdf)[[code]](https://github.com/songyouwei/ABSA-PyTorch/blob/master/models/aen.py)
-- **`LCF-BERT`** LCF: A Local Context Focus Mechanism for Aspect-Based Sentiment Classification (CoPR 2019) [[paper]](https://www.mdpi.com/2076-3417/9/16/3389/pdf)[[code]](https://github.com/yangheng95/LCF-ABSA)
+- **`AEN-BERT`** Attentional Encoder Network for Targeted Sentiment Classification (CoRR 2019) [[paper]](https://arxiv.org/pdf/1902.09314.pdf)[[code]](https://github.com/songyouwei/ABSA-PyTorch/blob/master/models/aen.py)
+- **`LCF-BERT`** LCF: A Local Context Focus Mechanism for Aspect-Based Sentiment Classification (CoRR 2019) [[paper]](https://www.mdpi.com/2076-3417/9/16/3389/pdf)[[code]](https://github.com/yangheng95/LCF-ABSA)
 - **`AGDT`** A Novel Aspect-Guided Deep Transition Model for Aspect Based Sentiment Analysis (EMNLP 2019) [[paper]](https://arxiv.org/pdf/1909.00324.pdf)[[code]](https://github.com/XL2248/AGDT)
 - **`ASGCN`** Aspect-based Sentiment Classification with Aspect-specific Graph Convolutional Networks (ASGCN) [[paper]](https://arxiv.org/abs/1909.03477)[[code]](https://github.com/GeneZC/ASGCN)
 - **`BERT-E2E-ABSA`** Exploiting BERT for End-to-End Aspect-based Sentiment Analysis (EMNLP 2019) [[paper]](https://arxiv.org/abs/1910.00883)[[code]](https://github.com/lixin4ever/BERT-E2E-ABSA)
 - **`CAN`** CAN: Constrained Attention Networks for Multi-Aspect Sentiment (EMNLP 2019) [[paper]](https://arxiv.org/pdf/1812.10735.pdf)
 - **`Transferable-E2E-ABSA`** Transferable End-to-End Aspect-based Sentiment Analysis with Selective Adversarial Learning (EMNLP 2019) [[waiting for paper released]]()[[code]](https://github.com/hsqmlzno1/Transferable-E2E-ABSA)
 - **`PWCN`** Syntax-Aware Aspect-Level Sentiment Classification with Proximity-Weighted Convolution Network (SIGIR 2019) [[paper]](https://arxiv.org/abs/1909.10171)[[code]](https://github.com/GeneZC/PWCN)
-- **`BERT-ADA`** Adapt or Get Left Behind: Domain Adaptation through BERT Language Model Finetuning for Aspect-Target Sentiment Classification (CoPR 2019) [[paper]](https://arxiv.org/abs/1908.11860)[[code]](https://github.com/deepopinion/domain-adapted-atsc)
+- **`BERT-ADA`** Adapt or Get Left Behind: Domain Adaptation through BERT Language Model Finetuning for Aspect-Target Sentiment Classification (CoRR 2019) [[paper]](https://arxiv.org/abs/1908.11860)[[code]](https://github.com/deepopinion/domain-adapted-atsc)
 
 ### Document Level
 - Document-Level Multi-Aspect Sentiment Classification as Machine Comprehension (EMNLP 2017) [[paper]](http://www.cse.ust.hk/~yqsong/papers/2017-EMNLP-AspectClassification.pdf)
