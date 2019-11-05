@@ -48,7 +48,7 @@ Suggestions about adding papers, repositories and other resource are welcomed!
 - **`ASGCN`** Aspect-based Sentiment Classification with Aspect-specific Graph Convolutional Networks (ASGCN) [[paper]](https://arxiv.org/abs/1909.03477)[[code]](https://github.com/GeneZC/ASGCN)
 - **`BERT-E2E-ABSA`** Exploiting BERT for End-to-End Aspect-based Sentiment Analysis (EMNLP 2019) [[paper]](https://arxiv.org/abs/1910.00883)[[code]](https://github.com/lixin4ever/BERT-E2E-ABSA)
 - **`CAN`** CAN: Constrained Attention Networks for Multi-Aspect Sentiment (EMNLP 2019) [[paper]](https://arxiv.org/pdf/1812.10735.pdf)
-- **`Transferable-E2E-ABSA`** Transferable End-to-End Aspect-based Sentiment Analysis with Selective Adversarial Learning (EMNLP 2019) [[waiting for paper released]]()[[code]](https://github.com/hsqmlzno1/Transferable-E2E-ABSA)
+- **`Transferable-E2E-ABSA`** Transferable End-to-End Aspect-based Sentiment Analysis with Selective Adversarial Learning (EMNLP 2019) [[paper]](https://www.aclweb.org/anthology/D19-1466/)[[code]](https://github.com/hsqmlzno1/Transferable-E2E-ABSA)
 - **`PWCN`** Syntax-Aware Aspect-Level Sentiment Classification with Proximity-Weighted Convolution Network (SIGIR 2019) [[paper]](https://arxiv.org/abs/1909.10171)[[code]](https://github.com/GeneZC/PWCN)
 - **`BERT-ADA`** Adapt or Get Left Behind: Domain Adaptation through BERT Language Model Finetuning for Aspect-Target Sentiment Classification (CoRR 2019) [[paper]](https://arxiv.org/abs/1908.11860)[[code]](https://github.com/deepopinion/domain-adapted-atsc)
 
