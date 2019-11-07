@@ -59,7 +59,7 @@ Suggestions about adding papers, repositories and other resource are welcomed!
 ## Dataset
 - **`SentiHood(Dataset) LSTM-LOC`** SentiHood: Targeted Aspect Based Sentiment Analysis Dataset for Urban Neighbourhoods (COLING 2016) [[paper]](https://www.aclweb.org/anthology/C16-1146)[[data]](https://github.com/uclmr/jack/tree/master/data/sentihood)
 - **`SemEval 2014 Task4 Restaurant & Laptop dataset`** [[preprocessed data 1]](https://github.com/songyouwei/ABSAPyTorch/tree/master/datasets/semeval14)[[preprocessed data 2]](https://github.com/howardhsu/BERT-for-RRC-ABSA)
-- **`A Challenge Dataset and Effective Models for Aspect-Based Sentiment Analysis`** [[paper]](https://www.aclweb.org/anthology/D19-1654/)[[data]](https://github.com/siat-nlp/MAMS-for-ABSA)
+- **A Challenge Dataset and Effective Models for Aspect-Based Sentiment Analysis** [[paper]](https://www.aclweb.org/anthology/D19-1654/)[[data]](https://github.com/siat-nlp/MAMS-for-ABSA)
 
 ## Survey/Review
 Deep Learning for Aspect-Level Sentiment Classification: Survey, Vision, and Challenges (IEEE Access 2019) [[paper]](https://ieeexplore.ieee.org/document/8726353)
