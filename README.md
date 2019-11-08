@@ -1,9 +1,9 @@
 # ABSAPapers
 Must-read papers and related awesome resources on aspect-based sentiment analysis (ABSA). This repository mainly focused on aspect-term sentiment classification (ATSC). ABSA task contains four fine-grained subtasks:
-- Aspect Term Sentiment Classification
-- Aspect Term Extraction
-- Aspect Category Sentiment Classification
-- Aspect Category Extraction
+- Aspect Term Sentiment Classification (ATSC)
+- Aspect Term Extraction (ATE)
+- Aspect Category Sentiment Classification (ACSC)
+- Aspect Category Detection (ACD)
 
 Suggestions about adding papers, repositories and other resource are welcomed!
 
