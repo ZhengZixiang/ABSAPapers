@@ -38,7 +38,7 @@ Suggestions about adding papers, repositories and other resource are welcomed!
 - **`PCNN`** Parameterized Convolutional Neural Networks for Aspect Level Sentiment Classification (EMNLP 2018) [[paper]](https://aclweb.org/anthology/D18-1136/)
 - **`LCR-Rot`** Left-Center-Right Separated Neural Network for Aspect-based Sentiment Analysis with Rotatory Attention [[paper]](https://arxiv.org/abs/1802.00892)
 - **`E2E-ABSA`** A Unified Model for Opinion Target Extraction and Target Sentiment Prediction (AAAI 2019) [[paper]](https://arxiv.org/abs/1811.05082)[[code]](https://github.com/lixin4ever/E2E-TBSA)
-- **`IMN-E2E-ABSA`** (ACL 2019) [[paper]](https://arxiv.org/abs/1906.06906)[[code]](https://github.com/ruidan/IMN-E2E-ABSA)
+- **`IMN-E2E-ABSA`** An Interactive Multi-Task Learning Network for End-to-End Aspect-Based Sentiment Analysis (ACL 2019) [[paper]](https://arxiv.org/abs/1906.06906)[[code]](https://github.com/ruidan/IMN-E2E-ABSA)
 - **`BERT-SPC`** BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding (NAACL 2019) [[paper]](https://www.aclweb.org/anthology/N19-1423/)
 - **`BERT-PT`** BERT Post-Training for Review Reading Comprehension and Aspect-based Sentiment Analysis  (NAACL 2019) [[paper]](https://www.aclweb.org/anthology/N19-1242)[[code]](https://github.com/howardhsu/BERT-for-RRC-ABSA)
 - Utilizing BERT for Aspect-Based Sentiment Analysis via Constructing Auxiliary Sentence (NAACL 2019) [[paper]](https://www.aclweb.org/anthology/N19-1035/)[[code]](https://github.com/HSLCY/ABSA-BERT-pair)
