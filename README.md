@@ -64,9 +64,10 @@ Suggestions about adding papers, repositories and other resource are welcomed!
 ## Survey/Review
 Deep Learning for Aspect-Level Sentiment Classification: Survey, Vision, and Challenges (IEEE Access 2019) [[paper]](https://ieeexplore.ieee.org/document/8726353)
 
-## Repository/Resource
+## Repositories/Resources
 - [songyouwei/ABSA-PyTorch](https://github.com/songyouwei/ABSA-PyTorch)
 - [NUSTM/ABSC](https://github.com/NUSTM/ABSC)
+- [jiangqn/Aspect-Based-Sentiment-Analysis](https://github.com/jiangqn/Aspect-Based-Sentiment-Analysis)
 
 ## Blog
 - Kaiyuan Gao/基于特定实体的文本情感分类总结 [[PART I]](https://blog.csdn.net/Kaiyuan_sjtu/article/details/89788314)[[PART II]](https://blog.csdn.net/Kaiyuan_sjtu/article/details/89811824)[[PART III]](https://blog.csdn.net/Kaiyuan_sjtu/article/details/89850685)
