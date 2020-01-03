@@ -52,8 +52,8 @@ Suggestions about adding papers, repositories and other resource are welcomed!
 - Exploiting Coarse-to-Fine Task Transfer for Aspect-Level Sentiment Classification (AAAI 2019) [[paper]](https://www.aaai.org/ojs/index.php/AAAI/article/view/4332) - ***MGAN***
 - A Unified Model for Opinion Target Extraction and Target Sentiment Prediction (AAAI 2019) [[paper]](https://aaai.org/ojs/index.php/AAAI/article/view/4643)[[code]](https://github.com/lixin4ever/E2E-TBSA) - ***E2E-TBSA***
 - An Interactive Multi-Task Learning Network for End-to-End Aspect-Based Sentiment Analysis (ACL 2019) [[paper]](https://arxiv.org/abs/1906.06906)[[code]](https://github.com/ruidan/IMN-E2E-ABSA) - ***IMN-E2E-ABSA***
-- DOER: Dual Cross-Shared RNN for Aspect Term-Polarity Co-Extraction (ACL 2019) [[paper]](https://www.aclweb.org/anthology/P19-1056/) - ***DOER***
-- Learning Explicit and Implicit Structures for Targeted Sentiment Analysis (EMNLP 2019) [[paper]](https://www.aclweb.org/anthology/D19-1550/) - ***EI***
+- DOER: Dual Cross-Shared RNN for Aspect Term-Polarity Co-Extraction (ACL 2019) [[paper]](https://www.aclweb.org/anthology/P19-1056/)[[code]](https://github.com/ArrowLuo/DOER) - ***DOER***
+- Learning Explicit and Implicit Structures for Targeted Sentiment Analysis (EMNLP 2019) [[paper]](https://www.aclweb.org/anthology/D19-1550/)[[code]](https://github.com/leodotnet/ei) - ***EI***
 - Exploiting BERT for End-to-End Aspect-based Sentiment Analysis (EMNLP 2019) [[paper]](https://www.aclweb.org/anthology/D19-5505/)[[code]](https://github.com/lixin4ever/BERT-E2E-ABSA) - ***BERT-E2E-ABSA***
 - Transferable End-to-End Aspect-based Sentiment Analysis with Selective Adversarial Learning (EMNLP 2019) [[paper]](https://www.aclweb.org/anthology/D19-1466/)[[code]](https://github.com/hsqmlzno1/Transferable-E2E-ABSA) - ***Transferable-E2E-ABSA***
 - Knowing What, How and Why: A Near Complete Solution for Aspect-based Sentiment Analysis (AAAI 2020) [[paper]](https://arxiv.org/abs/1911.01616)[[data]](https://github.com/xuuuluuu/SemEval-Triplet-data) - ***ASTE***
