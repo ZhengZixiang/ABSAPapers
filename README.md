@@ -41,7 +41,8 @@ Suggestions about adding papers, repositories and other resource are welcomed!
 - BERT Post-Training for Review Reading Comprehension and Aspect-based Sentiment Analysis  (NAACL 2019) [[paper]](https://www.aclweb.org/anthology/N19-1242)[[code]](https://github.com/howardhsu/BERT-for-RRC-ABSA) - ***BERT-PT***
 - Utilizing BERT for Aspect-Based Sentiment Analysis via Constructing Auxiliary Sentence (NAACL 2019) [[paper]](https://www.aclweb.org/anthology/N19-1035/)[[code]](https://github.com/HSLCY/ABSA-BERT-pair)
 - Attentional Encoder Network for Targeted Sentiment Classification (CoRR 2019) [[paper]](https://arxiv.org/pdf/1902.09314.pdf)[[code]](https://github.com/songyouwei/ABSA-PyTorch/blob/master/models/aen.py) - ***AEN-BERT***
-- LCF: A Local Context Focus Mechanism for Aspect-Based Sentiment Classification (CoRR 2019) [[paper]](https://www.mdpi.com/2076-3417/9/16/3389/pdf)[[code]](https://github.com/yangheng95/LCF-ABSA) - ***LCF-BERT***
+- LCF: A Local Context Focus Mechanism for Aspect-Based Sentiment Classification (Applied Sciences 2019) [[paper]](https://www.mdpi.com/2076-3417/9/16/3389/pdf)[[code]](https://github.com/yangheng95/LCF-ABSA) - ***LCF-BERT***
+- A Multi-task Learning Model for Chinese-oriented Aspect Polarity Classification and Aspect Term Extraction (CoRR 2019) [[paper]](https://arxiv.org/abs/1912.07976)[[code]](https://github.com/yangheng95/LCF-ATEPC) - ***LCF-ATEPC***
 - A Novel Aspect-Guided Deep Transition Model for Aspect Based Sentiment Analysis (EMNLP 2019) [[paper]](https://arxiv.org/pdf/1909.00324.pdf)[[code]](https://github.com/XL2248/AGDT) - ***AGDT***
 - Aspect-based Sentiment Classification with Aspect-specific Graph Convolutional Networks (ASGCN) [[paper]](https://arxiv.org/abs/1909.03477)[[code]](https://github.com/GeneZC/ASGCN) - ***ASGCN***
 - CAN: Constrained Attention Networks for Multi-Aspect Sentiment (EMNLP 2019) [[paper]](https://arxiv.org/pdf/1812.10735.pdf) - ***CAN***
