@@ -65,9 +65,11 @@ Suggestions about adding papers, repositories and other resource are welcomed!
 - Document-level Multi-aspect Sentiment Classification by Jointly Modeling Users, Aspects, and Overall Ratings (COLING 2018) [[paper]](https://www.aclweb.org/anthology/C18-1079/) - ***HUARN***
 
 ## Dataset
+- SemEval-2014 Task 4: Aspect Based Sentiment Analysis (SemEval 2014) [[paper]](https://www.aclweb.org/anthology/S14-2004/)[[preprocessed data 1]](https://github.com/songyouwei/ABSAPyTorch/tree/master/datasets/semeval14)[[preprocessed data 2]](https://github.com/howardhsu/BERT-for-RRC-ABSA) - ***Restaurant & Laptop***
+- Adaptive Recursive Neural Network for Target-dependent Twitter Sentiment Classification (ACL 2014) [[paper]](https://www.aclweb.org/anthology/P14-2009)[[preprocessed data]](https://github.com/songyouwei/ABSA-PyTorch/tree/master/datasets/acl-14-short-data) - ***Twitter***
 - SentiHood: Targeted Aspect Based Sentiment Analysis Dataset for Urban Neighbourhoods (COLING 2016) [[paper]](https://www.aclweb.org/anthology/C16-1146)[[data]](https://github.com/uclmr/jack/tree/master/data/sentihood) -  ***LSTM-LOC***
-- SemEval 2014 Task4 Restaurant & Laptop dataset [[preprocessed data 1]](https://github.com/songyouwei/ABSAPyTorch/tree/master/datasets/semeval14)[[preprocessed data 2]](https://github.com/howardhsu/BERT-for-RRC-ABSA)
-- A Challenge Dataset and Effective Models for Aspect-Based Sentiment Analysis [[paper]](https://www.aclweb.org/anthology/D19-1654/)[[data]](https://github.com/siat-nlp/MAMS-for-ABSA) - ***MAMS***
+- Target-oriented Opinion Words Extraction with Target-fused Neural Sequence Labeling (NAACL 2019) [[paper]](https://www.aclweb.org/anthology/N19-1259/)[[data]](https://github.com/NJUNLP/TOWE) - ***TOWE***
+- A Challenge Dataset and Effective Models for Aspect-Based Sentiment Analysis (EMNLP 2019) [[paper]](https://www.aclweb.org/anthology/D19-1654/)[[data]](https://github.com/siat-nlp/MAMS-for-ABSA) - ***MAMS***
 
 ## Survey/Review
 Deep Learning for Aspect-Level Sentiment Classification: Survey, Vision, and Challenges (IEEE Access 2019) [[paper]](https://ieeexplore.ieee.org/document/8726353)
