@@ -78,6 +78,7 @@ Deep Learning for Aspect-Level Sentiment Classification: Survey, Vision, and Cha
 
 ## Repositories/Resources
 - [songyouwei/ABSA-PyTorch](https://github.com/songyouwei/ABSA-PyTorch)
+- [AlexYangLi/ABSA_Keras](https://github.com/AlexYangLi/ABSA_Keras)
 - [NUSTM/ABSC](https://github.com/NUSTM/ABSC)
 - [jiangqn/Aspect-Based-Sentiment-Analysis](https://github.com/jiangqn/Aspect-Based-Sentiment-Analysis)
 
