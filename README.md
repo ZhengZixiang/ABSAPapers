@@ -58,7 +58,6 @@ Suggestions about adding papers, repositories and other resource are welcomed!
 - Exploiting BERT for End-to-End Aspect-based Sentiment Analysis (EMNLP 2019) [[paper]](https://www.aclweb.org/anthology/D19-5505/)[[code]](https://github.com/lixin4ever/BERT-E2E-ABSA) - ***BERT-E2E-ABSA***
 - Transferable End-to-End Aspect-based Sentiment Analysis with Selective Adversarial Learning (EMNLP 2019) [[paper]](https://www.aclweb.org/anthology/D19-1466/)[[code]](https://github.com/hsqmlzno1/Transferable-E2E-ABSA) - ***Transferable-E2E-ABSA***
 - Knowing What, How and Why: A Near Complete Solution for Aspect-based Sentiment Analysis (AAAI 2020) [[paper]](https://arxiv.org/abs/1911.01616)[[data]](https://github.com/xuuuluuu/SemEval-Triplet-data) - ***ASTE***
-- 
 
 ### Document Level
 - Document-Level Multi-Aspect Sentiment Classification as Machine Comprehension (EMNLP 2017) [[paper]](http://www.cse.ust.hk/~yqsong/papers/2017-EMNLP-AspectClassification.pdf)
@@ -74,7 +73,8 @@ Suggestions about adding papers, repositories and other resource are welcomed!
 - A Challenge Dataset and Effective Models for Aspect-Based Sentiment Analysis (EMNLP 2019) [[paper]](https://www.aclweb.org/anthology/D19-1654/)[[data]](https://github.com/siat-nlp/MAMS-for-ABSA) - ***MAMS***
 
 ## Survey/Review
-Deep Learning for Aspect-Level Sentiment Classification: Survey, Vision, and Challenges (IEEE Access 2019) [[paper]](https://ieeexplore.ieee.org/document/8726353)
+- Deep Learning for Aspect-Based Sentiment Analysis: A Comparative Review (ESWA 2019) [[paper]](https://doi.org/10.1016/j.eswa.2018.10.003)
+- Deep Learning for Aspect-Level Sentiment Classification: Survey, Vision, and Challenges (IEEE Access 2019) [[paper]](https://ieeexplore.ieee.org/document/8726353)
 
 ## Repositories/Resources
 - [songyouwei/ABSA-PyTorch](https://github.com/songyouwei/ABSA-PyTorch)
