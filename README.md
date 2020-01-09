@@ -51,7 +51,7 @@ Suggestions about adding papers, repositories and other resource are welcomed!
 - Adapt or Get Left Behind: Domain Adaptation through BERT Language Model Finetuning for Aspect-Target Sentiment Classification (CoRR 2019) [[paper]](https://arxiv.org/abs/1908.11860)[[code]](https://github.com/deepopinion/domain-adapted-atsc) - ***BERT-ADA***
 
 ### Multi-task Learning
-Combining two or more ABSA's subtask in one framework to produce results is an intutively effective way for industrial application. There are two patterns of multi-task learning: pipeline and joint model. For pipeline pattern, the framework complete subtasks in two or more steps, which might lead to error propogation problem. Joint model process the data with shared layers and outputs results of different tasks through task-specific layers.
+Combining two or more ABSA's subtasks in one framework to produce results is an intutively effective way for industrial application. There are two patterns of multi-task learning: pipeline and joint model. For pipeline pattern, the framework complete subtasks in more than one step, using the result of last step to guide the next step's output, which might lead to error propogation problem. Joint model processes the data with shared layers to extract universal semantic features for all subtasks. Then model outputs results of different tasks through task-specific layers.
 
 - MTNA: A Neural Multi-task Model for Aspect Category Classification and Aspect Term Extraction On Restaurant Reviews (IJCNLP 2017) [[paper]](https://www.aclweb.org/anthology/I17-2026/) - ***MTNA***
 - Exploiting Coarse-to-Fine Task Transfer for Aspect-Level Sentiment Classification (AAAI 2019) [[paper]](https://www.aaai.org/ojs/index.php/AAAI/article/view/4332) - ***MGAN***
