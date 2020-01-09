@@ -4,6 +4,7 @@ Must-read papers and related awesome resources on aspect-based sentiment analysi
 - Aspect Term Extraction (ATE)
 - Aspect Category Sentiment Classification (ACSC)
 - Aspect Category Detection (ACD)
+- Opniton Term Extraction (OTE)
 
 Suggestions about adding papers, repositories and other resource are welcomed!
 
@@ -49,7 +50,10 @@ Suggestions about adding papers, repositories and other resource are welcomed!
 - Syntax-Aware Aspect-Level Sentiment Classification with Proximity-Weighted Convolution Network (SIGIR 2019) [[paper]](https://arxiv.org/abs/1909.10171)[[code]](https://github.com/GeneZC/PWCN) - ***PWCN***
 - Adapt or Get Left Behind: Domain Adaptation through BERT Language Model Finetuning for Aspect-Target Sentiment Classification (CoRR 2019) [[paper]](https://arxiv.org/abs/1908.11860)[[code]](https://github.com/deepopinion/domain-adapted-atsc) - ***BERT-ADA***
 
-### End-to-End
+### Multi-task Learning
+Combining two or more ABSA's subtask in one framework to produce results is an intutively effective way for industrial application. There are two patterns of multi-task learning: pipeline and joint model. For pipeline pattern, the framework complete subtasks in two or more steps, which might lead to error propogation problem. Joint model process the data with shared layers and outputs results of different tasks through task-specific layers.
+
+- MTNA: A Neural Multi-task Model for Aspect Category Classification and Aspect Term Extraction On Restaurant Reviews (IJCNLP 2017) [[paper]](https://www.aclweb.org/anthology/I17-2026/) - ***MTNA***
 - Exploiting Coarse-to-Fine Task Transfer for Aspect-Level Sentiment Classification (AAAI 2019) [[paper]](https://www.aaai.org/ojs/index.php/AAAI/article/view/4332) - ***MGAN***
 - A Unified Model for Opinion Target Extraction and Target Sentiment Prediction (AAAI 2019) [[paper]](https://aaai.org/ojs/index.php/AAAI/article/view/4643)[[code]](https://github.com/lixin4ever/E2E-TBSA) - ***E2E-TBSA***
 - An Interactive Multi-Task Learning Network for End-to-End Aspect-Based Sentiment Analysis (ACL 2019) [[paper]](https://arxiv.org/abs/1906.06906)[[code]](https://github.com/ruidan/IMN-E2E-ABSA) - ***IMN-E2E-ABSA***
@@ -72,7 +76,8 @@ Suggestions about adding papers, repositories and other resource are welcomed!
 - Target-oriented Opinion Words Extraction with Target-fused Neural Sequence Labeling (NAACL 2019) [[paper]](https://www.aclweb.org/anthology/N19-1259/)[[data]](https://github.com/NJUNLP/TOWE) - ***TOWE***
 - A Challenge Dataset and Effective Models for Aspect-Based Sentiment Analysis (EMNLP 2019) [[paper]](https://www.aclweb.org/anthology/D19-1654/)[[data]](https://github.com/siat-nlp/MAMS-for-ABSA) - ***MAMS***
 
-## Survey/Review
+## Survey & Review & Tutorial
+- Sentiment Analysis and Opinion Mining (AAAI 2011 Tutorial) [[slide]](https://www.seas.upenn.edu/~cis630/Sentiment-Analysis-tutorial-AAAI-2011.pdf)
 - Deep Learning for Aspect-Based Sentiment Analysis: A Comparative Review (ESWA 2019) [[paper]](https://doi.org/10.1016/j.eswa.2018.10.003)
 - Deep Learning for Aspect-Level Sentiment Classification: Survey, Vision, and Challenges (IEEE Access 2019) [[paper]](https://ieeexplore.ieee.org/document/8726353)
 
