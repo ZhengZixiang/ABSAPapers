@@ -86,6 +86,7 @@ Combining two or more ABSA's subtasks in one framework to produce results is an 
 - [AlexYangLi/ABSA_Keras](https://github.com/AlexYangLi/ABSA_Keras)
 - [NUSTM/ABSC](https://github.com/NUSTM/ABSC)
 - [jiangqn/Aspect-Based-Sentiment-Analysis](https://github.com/jiangqn/Aspect-Based-Sentiment-Analysis)
+- [haiker2011/awesome-nlp-sentiment-analysis](https://github.com/haiker2011/awesome-nlp-sentiment-analysis)
 
 ## Blog
 - [Kaiyuan Gao/基于特定实体的文本情感分类总结 [PART I]](https://blog.csdn.net/Kaiyuan_sjtu/article/details/89788314)[[PART II]](https://blog.csdn.net/Kaiyuan_sjtu/article/details/89811824)[[PART III]](https://blog.csdn.net/Kaiyuan_sjtu/article/details/89850685)
