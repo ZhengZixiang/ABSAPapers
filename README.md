@@ -62,6 +62,7 @@ Combining two or more ABSA's subtasks in one framework to produce results is an 
 - Exploiting BERT for End-to-End Aspect-based Sentiment Analysis (EMNLP 2019) [[paper]](https://www.aclweb.org/anthology/D19-5505/)[[code]](https://github.com/lixin4ever/BERT-E2E-ABSA) - ***BERT-E2E-ABSA***
 - Transferable End-to-End Aspect-based Sentiment Analysis with Selective Adversarial Learning (EMNLP 2019) [[paper]](https://www.aclweb.org/anthology/D19-1466/)[[code]](https://github.com/hsqmlzno1/Transferable-E2E-ABSA) - ***Transferable-E2E-ABSA***
 - Knowing What, How and Why: A Near Complete Solution for Aspect-based Sentiment Analysis (AAAI 2020) [[paper]](https://arxiv.org/abs/1911.01616)[[data]](https://github.com/xuuuluuu/SemEval-Triplet-data) - ***ASTE***
+- Open-Domain Targeted Sentiment Analysis via Span-Based Extraction and Classification (ACL 2019) [[paper]](https://arxiv.org/abs/1908.05147)[[code]](https://github.com/huminghao16/SpanABSA) - ***SpanABSA***
 
 ### Document Level
 - Document-Level Multi-Aspect Sentiment Classification as Machine Comprehension (EMNLP 2017) [[paper]](http://www.cse.ust.hk/~yqsong/papers/2017-EMNLP-AspectClassification.pdf)
@@ -75,6 +76,8 @@ Combining two or more ABSA's subtasks in one framework to produce results is an 
 - SentiHood: Targeted Aspect Based Sentiment Analysis Dataset for Urban Neighbourhoods (COLING 2016) [[paper]](https://www.aclweb.org/anthology/C16-1146)[[data]](https://github.com/uclmr/jack/tree/master/data/sentihood) -  ***LSTM-LOC***
 - Target-oriented Opinion Words Extraction with Target-fused Neural Sequence Labeling (NAACL 2019) [[paper]](https://www.aclweb.org/anthology/N19-1259/)[[data]](https://github.com/NJUNLP/TOWE) - ***TOWE***
 - A Challenge Dataset and Effective Models for Aspect-Based Sentiment Analysis (EMNLP 2019) [[paper]](https://www.aclweb.org/anthology/D19-1654/)[[data]](https://github.com/siat-nlp/MAMS-for-ABSA) - ***MAMS***
+### Normal Sentiment Analysis Dataset (More Coarse-grained)
+- CLUEbenchmark/CLUEmotionAnalysis2020 [[data]](https://github.com/CLUEbenchmark/CLUEmotionAnalysis2020)
 
 ## Survey & Review & Tutorial
 - Sentiment Analysis and Opinion Mining (AAAI 2011 Tutorial) [[slide]](https://www.seas.upenn.edu/~cis630/Sentiment-Analysis-tutorial-AAAI-2011.pdf)
