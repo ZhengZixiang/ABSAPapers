@@ -63,6 +63,7 @@ Combining two or more ABSA's subtasks in one framework to produce results is an 
 - Transferable End-to-End Aspect-based Sentiment Analysis with Selective Adversarial Learning (EMNLP 2019) [[paper]](https://www.aclweb.org/anthology/D19-1466/)[[code]](https://github.com/hsqmlzno1/Transferable-E2E-ABSA) - ***Transferable-E2E-ABSA***
 - Knowing What, How and Why: A Near Complete Solution for Aspect-based Sentiment Analysis (AAAI 2020) [[paper]](https://arxiv.org/abs/1911.01616)[[data]](https://github.com/xuuuluuu/SemEval-Triplet-data) - ***ASTE***
 - Open-Domain Targeted Sentiment Analysis via Span-Based Extraction and Classification (ACL 2019) [[paper]](https://arxiv.org/abs/1906.03820)[[code]](https://github.com/huminghao16/SpanABSA) - ***SpanABSA***
+- Latent Opinions Transfer Network for Target-Oriented Opinion Words Extraction (AAAI 2020) [[paper]](https://arxiv.org/abs/2001.01989)[[code]](https://github.com/NJUNLP/TOWE)
 
 ### Document Level
 - Document-Level Multi-Aspect Sentiment Classification as Machine Comprehension (EMNLP 2017) [[paper]](http://www.cse.ust.hk/~yqsong/papers/2017-EMNLP-AspectClassification.pdf)
@@ -94,3 +95,4 @@ Combining two or more ABSA's subtasks in one framework to produce results is an 
 ## Blog
 - [Kaiyuan Gao/基于特定实体的文本情感分类总结 [PART I]](https://blog.csdn.net/Kaiyuan_sjtu/article/details/89788314)[[PART II]](https://blog.csdn.net/Kaiyuan_sjtu/article/details/89811824)[[PART III]](https://blog.csdn.net/Kaiyuan_sjtu/article/details/89850685)
 - [细粒度情感分析任务（ABSA）的最新进展](https://mp.weixin.qq.com/s/Jzra95XfjNtDDTNDMD8Lkw)
+- [如何理解用户评论中的细粒度情感？面向目标的观点词抽取](https://mp.weixin.qq.com/s?__biz=MzIwMTc4ODE0Mw==&mid=2247505078&idx=1&sn=15440251e2a4e7ca343a167abc4baaa7&chksm=96ea0b36a19d82205149d0bbf2abe021446ec6f79080240a5bb86e8f7ca269d79fb8497a2c7b&mpshare=1&scene=1&srcid=&sharer_sharetime=1588048671325&sharer_shareid=aaa99b8738c1d6c23f064aa833392e12&key=cb22f99619bada4146c7b0ef892cfd0a60c077c3ffdc737afbe068ff4c8413719b572a03481ad235c0dacec501ae4ecd7ec85f50354f612eef3510f86be30a5101dcd0525f4c2d29ea28a0f29f197257&ascene=1&uin=Mjg1NTM0NDcyMw%3D%3D&devicetype=Windows+10+x64&version=62090070&lang=zh_CN&exportkey=A4x3ZRmie1N1hIULVmQgfzg%3D&pass_ticket=S6qd9A8LtiIoeqfdIzCQbiC7sE%2Ft%2B4UALinNh54hojpbm9VJqvqFrjFnUPxj205m)
