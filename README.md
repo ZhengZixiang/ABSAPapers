@@ -58,6 +58,7 @@ Suggestions about adding papers, repositories and other resource are welcomed!
 ### Multi-task Learning & End-to-End
 Combining two or more ABSA's subtasks in one framework to produce results is an intutively effective way for industrial application. There are three patterns of multi-task learning: pipeline, joint and end-to-end model. For pipeline pattern, the framework complete subtasks in more than one step, using the result of last step to guide the next step's output, which might lead to error propogation problem. Joint model processes the data with shared layers to extract universal semantic features for all subtasks. Then model outputs results of different tasks through task-specific layers. End-to-end model complete tasks like sequence labeling.
 
+### Aspect Extraction & Sentiment Classification
 - **MTNA: A Neural Multi-task Model for Aspect Category Classification and Aspect Term Extraction On Restaurant Reviews**. *Wei Xue, Wubai Zhou, Tao Li, Qing Wang*. (IJCNLP 2017) [[paper]](https://www.aclweb.org/anthology/I17-2026/) - ***MTNA***
 - **Exploiting Coarse-to-Fine Task Transfer for Aspect-Level Sentiment Classification**. *Zheng Li, Ying Wei, Yu Zhang, Xiang Zhang, Xin Li*. (AAAI 2019) [[paper]](https://www.aaai.org/ojs/index.php/AAAI/article/view/4332) - ***MGAN***
 - **A Unified Model for Opinion Target Extraction and Target Sentiment Prediction**. *Xin Li, Lidong Bing, Piji Li, Wai Lam*. (AAAI 2019) [[paper]](https://aaai.org/ojs/index.php/AAAI/article/view/4643)[[code]](https://github.com/lixin4ever/E2E-TBSA) - ***E2E-TBSA***
@@ -68,13 +69,15 @@ Combining two or more ABSA's subtasks in one framework to produce results is an 
 - **Transferable End-to-End Aspect-based Sentiment Analysis with Selective Adversarial Learning**. *Zheng Li, Xin Li, Ying Wei, Lidong Bing, Yu Zhang, Qiang Yang*. (EMNLP 2019) [[paper]](https://www.aclweb.org/anthology/D19-1466/)[[code]](https://github.com/hsqmlzno1/Transferable-E2E-ABSA) - ***Transferable-E2E-ABSA***
 - **Knowing What, How and Why: A Near Complete Solution for Aspect-based Sentiment Analysis**. *Haiyun Peng, Lu Xu, Lidong Bing, Fei Huang, Wei Lu, Luo Si*. (AAAI 2020) [[paper]](https://arxiv.org/abs/1911.01616)[[data]](https://github.com/xuuuluuu/SemEval-Triplet-data) - ***ASTE***
 - **Open-Domain Targeted Sentiment Analysis via Span-Based Extraction and Classification**. *Minghao Hu, Yuxing Peng, Zhen Huang, Dongsheng Li, Yiwei Lv*. (ACL 2019) [[paper]](https://arxiv.org/abs/1906.03820)[[code]](https://github.com/huminghao16/SpanABSA) - ***SpanABSA***
+- **Relation-Aware Collaborative Learning for Unified Aspect-Based Sentiment Analysis**. *Zhuang Chen, Tieyun Qian*. (ACL 2020) [[paper]](https://www.aclweb.org/anthology/2020.acl-main.340/)[[code]](https://github.com/NLPWM-WHU/RACL) - ***RACL***
+
+#### Aspect-Opinion Pair Extraction
+- **Target-oriented Opinion Words Extraction with Target-fused Neural Sequence Labeling**. *Zhifang Fan, Zhen Wu, Xin-Yu Dai, Shujian Huang, Jiajun Chen*. (NAACL 2019) [[paper]](https://www.aclweb.org/anthology/N19-1259/)[[data]](https://github.com/NJUNLP/TOWE) - ***TOWE***
 - **Latent Opinions Transfer Network for Target-Oriented Opinion Words Extraction**. *Latent Opinions Transfer Network for Target-Oriented Opinion Words Extraction*. (AAAI 2020) [[paper]](https://arxiv.org/abs/2001.01989)[[code]](https://github.com/NJUNLP/TOWE)
-- **SKEP: Sentiment Knowledge Enhanced Pre-training for Sentiment Analysis**. *Hao Tian, Can Gao, Xinyan Xiao, Hao Liu, Bolei He, Hua Wu, Haifeng Wang, Feng Wu*. (ACL 2020) [[paper]](https://arxiv.org/abs/2005.05635)
-- **Relation-Aware Collaborative Learning for Unified Aspect-Based Sentiment Analysis**. *Zhuang Chen, Tieyun Qian*. (ACL 2020) [[paper]](https://www.aclweb.org/anthology/2020.acl-main.340/)[[code]](https://github.com/NLPWM-WHU/RACL)
 - **Synchronous Double-channel Recurrent Network for Aspect-Opinion Pair Extraction**. *Shaowei Chen, Jie Liu, Yu Wang, Wenzheng Zhang, Ziming Chi*. (ACL 2020) [[paper]](https://www.aclweb.org/anthology/2020.acl-main.582/)[[code]](https://github.com/NKU-IIPLab/SDRN) - ***AOPE SDRN***
 - **SpanMlt: A Span-based Multi-Task Learning Framework for Pair-wise Aspect and Opinion Terms Extraction**. *He Zhao, Longtao Huang, Rong Zhang, Quan Lu, Hui Xue*. (ACL 2020) [[paper]](https://www.aclweb.org/anthology/2020.acl-main.296/)
 
-### Emotion-Cause Pair Extraction
+#### Emotion-Cause Pair Extraction
 - **Emotion-Cause Pair Extraction: A New Task to Emotion Analysis in Texts**. *Rui Xia, Zixiang Ding*. (ACL 2019) [[paper]](https://arxiv.org/abs/1906.01267)[[code]](https://github.com/NUSTM/ECPE)
 - **ECPE-2D: Emotion-Cause Pair Extraction based on Joint Two-Dimensional Representation, Interaction and Prediction**. *Zixiang Ding, Rui Xia, Jianfei Yu*. (ACL 2020) [[paper]](https://www.aclweb.org/anthology/2020.acl-main.288/)[[code]](https://github.com/NUSTM/ECPE-2D)
 - **Effective Inter-Clause Modeling for End-to-End Emotion-Cause Pair Extraction**. *Penghui Wei, Jiahao Zhao, Wenji Mao*. (ACL 2020) [[paper]](https://www.aclweb.org/anthology/2020.acl-main.289/)[[code]](https://github.com/Determined22/Rank-Emotion-Cause)
@@ -95,17 +98,21 @@ Combining two or more ABSA's subtasks in one framework to produce results is an 
 - **Sentiment Analysis and Opinion Mining**. *Bing Liu*. (AAAI 2011 Tutorial) [[slide]](https://www.seas.upenn.edu/~cis630/Sentiment-Analysis-tutorial-AAAI-2011.pdf)
 - **Deep Learning for Aspect-Based Sentiment Analysis: A Comparative Review**. *Hai Ha Do, P. W. C. Prasad, Angelika Maag, Abeer Alsadoon*. (ESWA 2019) [[paper]](https://doi.org/10.1016/j.eswa.2018.10.003)
 - **Deep Learning for Aspect-Level Sentiment Classification: Survey, Vision, and Challenges**. *Jie Zhou, Jimmy Xiangji Huang, Qin Chen, Qinmin Vivian Hu, Tingting Wang, Liang He*. (IEEE Access 2019) [[paper]](https://ieeexplore.ieee.org/document/8726353)
+- **Issues and Challenges of Aspect-based Sentiment Analysis: A Comprehensive Survey**. *Ambreen Nazir, Yuan Rao, Lianwei Wu, Ling Sun*. (IEEE-TAC 2020) [[paper]](https://ieeexplore.ieee.org/abstract/document/8976252)
+
+## Others
+- **SKEP: Sentiment Knowledge Enhanced Pre-training for Sentiment Analysis**. *Hao Tian, Can Gao, Xinyan Xiao, Hao Liu, Bolei He, Hua Wu, Haifeng Wang, Feng Wu*. (ACL 2020) [[paper]](https://arxiv.org/abs/2005.05635)
 
 ## Repositories/Resources
-- [songyouwei/ABSA-PyTorch](https://github.com/songyouwei/ABSA-PyTorch)
-- [AlexYangLi/ABSA_Keras](https://github.com/AlexYangLi/ABSA_Keras)
-- [NUSTM/ABSC](https://github.com/NUSTM/ABSC)
-- [jiangqn/Aspect-Based-Sentiment-Analysis](https://github.com/jiangqn/Aspect-Based-Sentiment-Analysis)
-- [haiker2011/awesome-nlp-sentiment-analysis](https://github.com/haiker2011/awesome-nlp-sentiment-analysis)
+- [songyouwei / ABSA-PyTorch](https://github.com/songyouwei/ABSA-PyTorch) - Aspect Based Sentiment Analysis, PyTorch Implementations. 基于方面的情感分析，使用PyTorch实现
+- [AlexYangLi / ABSA_Keras](https://github.com/AlexYangLi/ABSA_Keras) - Keras Implementation of Aspect based Sentiment Analysis
+- [NUSTM / ABSC](https://github.com/NUSTM/ABSC) - aspect-based sentiment classification
+- [jiangqn / Aspect-Based-Sentiment-Analysis](https://github.com/jiangqn/Aspect-Based-Sentiment-Analysis) - A paper list for aspect based sentiment analysis.
+- [haiker2011 / awesome-nlp-sentiment-analysis](https://github.com/haiker2011/awesome-nlp-sentiment-analysis) - 收集NLP领域相关的数据集、论文、开源实现，尤其是情感分析、情绪原因识别、评价对象和评价词抽取方面
 
 ## Posts
 ### Chinese
 - [阿里巴巴 / 细粒度情感分析任务（ABSA）的最新进展](https://mp.weixin.qq.com/s/Jzra95XfjNtDDTNDMD8Lkw)
-- [Kaiyuan Gao/基于特定实体的文本情感分类总结 [PART I]](https://blog.csdn.net/Kaiyuan_sjtu/article/details/89788314)[[PART II]](https://blog.csdn.net/Kaiyuan_sjtu/article/details/89811824)[[PART III]](https://blog.csdn.net/Kaiyuan_sjtu/article/details/89850685)
+- [Kaiyuan Gao / 基于特定实体的文本情感分类总结 [PART I]](https://blog.csdn.net/Kaiyuan_sjtu/article/details/89788314)[[PART II]](https://blog.csdn.net/Kaiyuan_sjtu/article/details/89811824)[[PART III]](https://blog.csdn.net/Kaiyuan_sjtu/article/details/89850685)
 - [NJU / 如何理解用户评论中的细粒度情感？面向目标的观点词抽取](https://mp.weixin.qq.com/s/zz_9YpaPn5lYzhaNKxylJA)
 - [平安寿险PAI / 细粒度情感分析在保险行业的应用](https://zhuanlan.zhihu.com/p/151216832)
