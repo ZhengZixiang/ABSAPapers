@@ -59,7 +59,7 @@ Suggestions about adding papers, repositories and other resource are welcomed!
 ### Multi-task Learning & End-to-End
 Combining two or more ABSA's subtasks in one framework to produce results is an intutively effective way for industrial application. There are three patterns of multi-task learning: pipeline, joint and end-to-end model. For pipeline pattern, the framework complete subtasks in more than one step, using the result of last step to guide the next step's output, which might lead to error propogation problem. Joint model processes the data with shared layers to extract universal semantic features for all subtasks. Then model outputs results of different tasks through task-specific layers. End-to-end model complete tasks like sequence labeling.
 
-### Aspect Extraction & Sentiment Classification
+#### Aspect Extraction & Sentiment Classification
 - **MTNA: A Neural Multi-task Model for Aspect Category Classification and Aspect Term Extraction On Restaurant Reviews**. *Wei Xue, Wubai Zhou, Tao Li, Qing Wang*. (IJCNLP 2017) [[paper]](https://www.aclweb.org/anthology/I17-2026/) - ***MTNA***
 - **Exploiting Coarse-to-Fine Task Transfer for Aspect-Level Sentiment Classification**. *Zheng Li, Ying Wei, Yu Zhang, Xiang Zhang, Xin Li*. (AAAI 2019) [[paper]](https://www.aaai.org/ojs/index.php/AAAI/article/view/4332) - ***MGAN***
 - **A Unified Model for Opinion Target Extraction and Target Sentiment Prediction**. *Xin Li, Lidong Bing, Piji Li, Wai Lam*. (AAAI 2019) [[paper]](https://aaai.org/ojs/index.php/AAAI/article/view/4643)[[code]](https://github.com/lixin4ever/E2E-TBSA) - ***E2E-TBSA***
