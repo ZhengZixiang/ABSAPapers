@@ -12,6 +12,10 @@ Suggestions about adding papers, repositories and other resource are welcomed!
 
 欢迎新增论文、代码仓库与其他资源等建议！
 
+> Update to COLING 2020! We will add a score table of representative and latest ABSA models like [NLP-progress](http://nlpprogress.com/english/sentiment_analysis.html) in the near future, so stay tuned!
+
+> 新增COLING 2020论文！近期将参考[NLP-progress](http://nlpprogress.com/english/sentiment_analysis.html)的形式增加一个数据集分值表，敬请期待！
+
 ## Paper
 - **Effective LSTMs for Target-Dependent Sentiment Classification**. *Duyu Tang, Bing Qin, Xiaocheng Feng, Ting Liu*. (COLING 2016) [[paper]](https://www.aclweb.org/anthology/C16-1311)[[code]](https://drive.google.com/drive/folders/17RF8MZs456ov9MDiUYZp0SCGL6LvBQl6) - ***TD-LSTM TC-LSTM***
 - **Attention-based LSTM for Aspect-level Sentiment Classification**. *Yequan Wang, Minlie Huang, Xiaoyan Zhu, Li Zhao*. (EMNLP 2016) [[paper]](https://aclweb.org/anthology/D16-1058) - ***ATAE-LSTM***
@@ -41,6 +45,11 @@ Suggestions about adding papers, repositories and other resource are welcomed!
 - **Multi-grained Attention Network for Aspect-Level Sentiment Classification**. *Feifan Fan, Yansong Feng, Dongyan Zhao*. (EMNLP 2018) [[paper]](https://aclweb.org/anthology/D18-1380) - ***MGAN***
 - **Parameterized Convolutional Neural Networks for Aspect Level Sentiment Classification**. *Binxuan Huang, Kathleen M. Carley*. (EMNLP 2018) [[paper]](https://aclweb.org/anthology/D18-1136/) - ***PCNN***
 - **Left-Center-Right Separated Neural Network for Aspect-based Sentiment Analysis with Rotatory Attention**. *Shiliang Zheng, Rui Xia*. (CoRR 2018) [[paper]](https://arxiv.org/abs/1802.00892) - ***LCR-Rot***
+- **Syntax-Aware Aspect-Level Sentiment Classification with Proximity-Weighted Convolution Network**. *Chen Zhang, Qiuchi Li, Dawei Song*. (SIGIR 2019) [[paper]](https://arxiv.org/abs/1909.10171)[[code]](https://github.com/GeneZC/PWCN) - ***PWCN***
+- **Aspect-based Sentiment Classification with Aspect-specific Graph Convolutional Networks**. *Chen Zhang, Qiuchi Li, Dawei Song*. (EMNLP 2019) [[paper]](https://arxiv.org/abs/1909.03477)[[code]](https://github.com/GeneZC/ASGCN) - ***ASGCN***
+- **Aspect-Level Sentiment Analysis Via Convolution over Dependency Tree**. *Kai Sun, Richong Zhang, Samuel Mensah, Yongyi Mao, Xudong Liu*. (EMNLP 2019) [[paper]](https://www.aclweb.org/anthology/D19-1569/)[[code]](https://github.com/sunkaikai/CDT_ABSA) - ***CDT-ABSA***
+- **A Novel Aspect-Guided Deep Transition Model for Aspect Based Sentiment Analysis**. *Yunlong Liang, Fandong Meng, Jinchao Zhang, Jinan Xu, Yufeng Chen, Jie Zhou*. (EMNLP 2019) [[paper]](https://arxiv.org/pdf/1909.00324.pdf)[[code]](https://github.com/XL2248/AGDT) - ***AGDT***
+- **CAN: Constrained Attention Networks for Multi-Aspect Sentiment**. *Mengting Hu, Shiwan Zhao, Li Zhang, Keke Cai, Zhong Su, Renhong Cheng, Xiaowei Shen*. (EMNLP 2019) [[paper]](https://arxiv.org/pdf/1812.10735.pdf) - ***CAN***
 - **BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding**. *Jacob Devlin, Ming-Wei Chang, Kenton Lee, Kristina Toutanova*. (NAACL 2019) [[paper]](https://www.aclweb.org/anthology/N19-1423/) - ***BERT-SPC***
 - **BERT Post-Training for Review Reading Comprehension and Aspect-based Sentiment Analysis**. *Hu Xu, Bing Liu, Lei Shu, Philip S. Yu*.  (NAACL 2019) [[paper]](https://www.aclweb.org/anthology/N19-1242)[[code]](https://github.com/howardhsu/BERT-for-RRC-ABSA) - ***BERT-PT***
 - **Utilizing BERT for Aspect-Based Sentiment Analysis via Constructing Auxiliary Sentence**. *Chi Sun, Luyao Huang, Xipeng Qiu*. (NAACL 2019) [[paper]](https://www.aclweb.org/anthology/N19-1035/)[[code]](https://github.com/HSLCY/ABSA-BERT-pair)
@@ -48,13 +57,14 @@ Suggestions about adding papers, repositories and other resource are welcomed!
 - **LCF: A Local Context Focus Mechanism for Aspect-Based Sentiment Classification**. *Biqing Zeng, Heng Yang 2, Ruyang Xu, Wu Zhou, Xuli Han* (Applied Sciences 2019) [[paper]](https://www.mdpi.com/2076-3417/9/16/3389/pdf)[[code]](https://github.com/yangheng95/LCF-ABSA) - ***LCF-BERT***
 - **A Multi-task Learning Model for Chinese-oriented Aspect Polarity Classification and Aspect Term Extraction**. *Heng Yang, Biqing Zeng, Jianhao Yang, Youwei Song, Ruyang Xu*. (CoRR 2019) [[paper]](https://arxiv.org/abs/1912.07976)[[code]](https://github.com/yangheng95/LCF-ATEPC) - ***LCF-ATEPC***
 - **Target-Dependent Sentiment Classification With BERT**. *Zhengjie Gao, Ao Feng, Xinyu Song, Xi Wu*. (IEEE Access Volumn 7 2019) [[paper]](https://ieeexplore.ieee.org/document/8864964)[[code]](https://github.com/Xiang-Pan/ABSA-PyTorch/blob/master/models/td_bert.py) - ***TD-BERT***
-- **A Novel Aspect-Guided Deep Transition Model for Aspect Based Sentiment Analysis**. *Yunlong Liang, Fandong Meng, Jinchao Zhang, Jinan Xu, Yufeng Chen, Jie Zhou*. (EMNLP 2019) [[paper]](https://arxiv.org/pdf/1909.00324.pdf)[[code]](https://github.com/XL2248/AGDT) - ***AGDT***
-- **Aspect-based Sentiment Classification with Aspect-specific Graph Convolutional Networks**. *Chen Zhang, Qiuchi Li, Dawei Song*. (EMNLP 2019) [[paper]](https://arxiv.org/abs/1909.03477)[[code]](https://github.com/GeneZC/ASGCN) - ***ASGCN***
-- **Aspect-Level Sentiment Analysis Via Convolution over Dependency Tree**. *Kai Sun, Richong Zhang, Samuel Mensah, Yongyi Mao, Xudong Liu*. (EMNLP 2019) [[paper]](https://www.aclweb.org/anthology/D19-1569/)[[code]](https://github.com/sunkaikai/CDT_ABSA) - ***CDT-ABSA***
-- **CAN: Constrained Attention Networks for Multi-Aspect Sentiment**. *Mengting Hu, Shiwan Zhao, Li Zhang, Keke Cai, Zhong Su, Renhong Cheng, Xiaowei Shen*. (EMNLP 2019) [[paper]](https://arxiv.org/pdf/1812.10735.pdf) - ***CAN***
-- **Syntax-Aware Aspect-Level Sentiment Classification with Proximity-Weighted Convolution Network**. *Chen Zhang, Qiuchi Li, Dawei Song*. (SIGIR 2019) [[paper]](https://arxiv.org/abs/1909.10171)[[code]](https://github.com/GeneZC/PWCN) - ***PWCN***
 - **Adapt or Get Left Behind: Domain Adaptation through BERT Language Model Finetuning for Aspect-Target Sentiment Classification**. *Alexander Rietzler, Sebastian Stabinger, Paul Opitz, Stefan Engl*. (LREC 2020) [[paper]](https://arxiv.org/abs/1908.11860)[[code]](https://github.com/deepopinion/domain-adapted-atsc) - ***BERT-ADA***
+- **Convolution over Hierarchical Syntactic and Lexical Graphs for Aspect Level Sentiment Analysis**. *Mi Zhang, Tieyun Qian*. (EMNLP 2020) [[paper]](https://www.aclweb.org/anthology/2020.emnlp-main.286/)
 - **Modelling Context and Syntactical Features for Aspect-based Sentiment Analysis**. *Minh Hieu Phan, Philip O. Ogunbona*. (ACL 2020) [[paper]](https://www.aclweb.org/anthology/2020.acl-main.293/)[[code]](https://github.com/StevePhan101/LCFS-BERT) - ***LCFS-BERT***
+- **Constituency Lattice Encoding for Aspect Term Extraction**. *Yunyi Yang, Kun Li, Xiaojun Quan, Weizhou Shen, Qinliang Su*. (COLING 2020) [[paper]](https://www.aclweb.org/anthology/2020.coling-main.73/)
+- **Attention Transfer Network for Aspect-level Sentiment Classification**. *Fei Zhao, Zhen Wu, Xinyu Dai*. (COLING 2020) [[paper]](https://www.aclweb.org/anthology/2020.coling-main.70/)[[code]](https://github.com/1429904852/ATN) - ***ATN***
+- **Jointly Learning Aspect-Focused and Inter-Aspect Relations with Graph Convolutional Networks for Aspect Sentiment Analysis**. *Bin Liang, Rongdi Yin, Lin Gui, Jiachen Du, Ruifeng Xu*. [[paper]](https://www.aclweb.org/anthology/2020.coling-main.13/) - ***InterGCN***
+- **Syntax-Aware Graph Attention Network for Aspect-Level Sentiment Classification**. *Lianzhe Huang, Xin Sun, Sujian Li, Linhao Zhang, Houfeng Wang*. (COLING 2020) [[paper]](https://www.aclweb.org/anthology/2020.coling-main.69/) - ***SAGAT***
+- **Constituency Lattice Encoding for Aspect Term Extraction**. *Yunyi Yang, Kun Li, Xiaojun Quan, Weizhou Shen, Qinliang Su*. (COLING 2020) [[paper]](https://www.aclweb.org/anthology/2020.coling-main.73/)
 
 ### Multi-task Learning & End-to-End
 Combining two or more ABSA's subtasks in one framework to produce results is an intutively effective way for industrial application. There are three patterns of multi-task learning: pipeline, joint and end-to-end model. For pipeline pattern, the framework complete subtasks in more than one step, using the result of last step to guide the next step's output, which might lead to error propogation problem. Joint model processes the data with shared layers to extract universal semantic features for all subtasks. Then model outputs results of different tasks through task-specific layers. End-to-end model complete tasks like sequence labeling.
@@ -71,12 +81,16 @@ Combining two or more ABSA's subtasks in one framework to produce results is an 
 - **Knowing What, How and Why: A Near Complete Solution for Aspect-based Sentiment Analysis**. *Haiyun Peng, Lu Xu, Lidong Bing, Fei Huang, Wei Lu, Luo Si*. (AAAI 2020) [[paper]](https://arxiv.org/abs/1911.01616)[[data]](https://github.com/xuuuluuu/SemEval-Triplet-data) - ***ASTE***
 - **Open-Domain Targeted Sentiment Analysis via Span-Based Extraction and Classification**. *Minghao Hu, Yuxing Peng, Zhen Huang, Dongsheng Li, Yiwei Lv*. (ACL 2019) [[paper]](https://arxiv.org/abs/1906.03820)[[code]](https://github.com/huminghao16/SpanABSA) - ***SpanABSA***
 - **Relation-Aware Collaborative Learning for Unified Aspect-Based Sentiment Analysis**. *Zhuang Chen, Tieyun Qian*. (ACL 2020) [[paper]](https://www.aclweb.org/anthology/2020.acl-main.340/)[[code]](https://github.com/NLPWM-WHU/RACL) - ***RACL***
+- **Label Correction Model for Aspect-based Sentiment Analysis**. *Qianlong Wang, Jiangtao Ren*. (COLING 2020) [[paper]](https://www.aclweb.org/anthology/2020.coling-main.71/)
+- **Aspect-Category based Sentiment Analysis with Hierarchical Graph Convolutional Network**. *Hongjie Cai, Yaofeng Tu, Xiangsheng Zhou, Jianfei Yu, Rui Xia*. (COLING 2020) [[paper]](https://www.aclweb.org/anthology/2020.coling-main.72/)
+- **Joint Aspect Extraction and Sentiment Analysis with Directional Graph Convolutional Networks**. *Guimin Chen, Yuanhe Tian, Yan Song*. (COLING 2020) [[paper]](https://www.aclweb.org/anthology/2020.coling-main.24/) - ***D-GCN***
 
 #### Aspect-Opinion Pair Extraction
 - **Target-oriented Opinion Words Extraction with Target-fused Neural Sequence Labeling**. *Zhifang Fan, Zhen Wu, Xin-Yu Dai, Shujian Huang, Jiajun Chen*. (NAACL 2019) [[paper]](https://www.aclweb.org/anthology/N19-1259/)[[data]](https://github.com/NJUNLP/TOWE) - ***TOWE***
 - **Latent Opinions Transfer Network for Target-Oriented Opinion Words Extraction**. *Latent Opinions Transfer Network for Target-Oriented Opinion Words Extraction*. (AAAI 2020) [[paper]](https://arxiv.org/abs/2001.01989)[[code]](https://github.com/NJUNLP/TOWE)
 - **Synchronous Double-channel Recurrent Network for Aspect-Opinion Pair Extraction**. *Shaowei Chen, Jie Liu, Yu Wang, Wenzheng Zhang, Ziming Chi*. (ACL 2020) [[paper]](https://www.aclweb.org/anthology/2020.acl-main.582/)[[code]](https://github.com/NKU-IIPLab/SDRN) - ***AOPE SDRN***
 - **SpanMlt: A Span-based Multi-Task Learning Framework for Pair-wise Aspect and Opinion Terms Extraction**. *He Zhao, Longtao Huang, Rong Zhang, Quan Lu, Hui Xue*. (ACL 2020) [[paper]](https://www.aclweb.org/anthology/2020.acl-main.296/)
+- **Syntactically Aware Cross-Domain Aspect and Opinion Terms Extraction**. *Oren Pereg, Daniel Korat, Moshe Wasserblat*. (COLING 2020) [[paper]](https://www.aclweb.org/anthology/2020.coling-main.158/)
 
 #### Emotion-Cause Pair Extraction
 - **Emotion-Cause Pair Extraction: A New Task to Emotion Analysis in Texts**. *Rui Xia, Zixiang Ding*. (ACL 2019) [[paper]](https://arxiv.org/abs/1906.01267)[[code]](https://github.com/NUSTM/ECPE)
@@ -104,6 +118,7 @@ Combining two or more ABSA's subtasks in one framework to produce results is an 
 
 ## Others
 - **SKEP: Sentiment Knowledge Enhanced Pre-training for Sentiment Analysis**. *Hao Tian, Can Gao, Xinyan Xiao, Hao Liu, Bolei He, Hua Wu, Haifeng Wang, Feng Wu*. (ACL 2020) [[paper]](https://arxiv.org/abs/2005.05635)
+- **PoD: Positional Dependency-Based Word Embedding for Aspect Term Extraction**. *Yichun Yin, Chenguang Wang, Ming Zhang*. (COLING 2020) [[paper]](https://www.aclweb.org/anthology/2020.coling-main.150/)
 
 ## Repositories/Resources
 - [songyouwei / ABSA-PyTorch](https://github.com/songyouwei/ABSA-PyTorch) - Aspect Based Sentiment Analysis, PyTorch Implementations. 基于方面的情感分析，使用PyTorch实现
