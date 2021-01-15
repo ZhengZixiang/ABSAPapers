@@ -119,6 +119,7 @@ Combining two or more ABSA's subtasks in one framework to produce results is an 
 ## Others
 - **SKEP: Sentiment Knowledge Enhanced Pre-training for Sentiment Analysis**. *Hao Tian, Can Gao, Xinyan Xiao, Hao Liu, Bolei He, Hua Wu, Haifeng Wang, Feng Wu*. (ACL 2020) [[paper]](https://arxiv.org/abs/2005.05635)
 - **PoD: Positional Dependency-Based Word Embedding for Aspect Term Extraction**. *Yichun Yin, Chenguang Wang, Ming Zhang*. (COLING 2020) [[paper]](https://www.aclweb.org/anthology/2020.coling-main.150/)
+- **Understanding Pre-trained BERT for Aspect-based Sentiment Analysis**. *Hu Xu, Lei Shu, Philip Yu, Bing Liu*. (COLING 2020) [[paper]](https://www.aclweb.org/anthology/2020.coling-main.21/)
 
 ## Repositories/Resources
 - [songyouwei / ABSA-PyTorch](https://github.com/songyouwei/ABSA-PyTorch) - Aspect Based Sentiment Analysis, PyTorch Implementations. 基于方面的情感分析，使用PyTorch实现
