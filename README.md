@@ -4,7 +4,7 @@ Worth-reading papers and related awesome resources on aspect-based sentiment ana
 - Aspect Term Extraction (ATE)
 - Aspect Category Sentiment Classification (ACSC)
 - Aspect Category Detection (ACD)
-- Opniton Term Extraction (OTE)
+- Opinion Term Extraction (OTE)
 
 Suggestions about adding papers, repositories and other resource are welcomed!
 
