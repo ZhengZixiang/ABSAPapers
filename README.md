@@ -12,9 +12,9 @@ Suggestions about adding papers, repositories and other resource are welcomed!
 
 欢迎新增论文、代码仓库与其他资源等建议！
 
-> Update to COLING 2020! We will add a score table of representative and latest ABSA models like [NLP-progress](http://nlpprogress.com/english/sentiment_analysis.html) in the near future, so stay tuned!
+> We will add a score table of representative and latest ABSA models like [NLP-progress](http://nlpprogress.com/english/sentiment_analysis.html) in the near future, so stay tuned!
 
-> 新增COLING 2020论文！近期将参考[NLP-progress](http://nlpprogress.com/english/sentiment_analysis.html)的形式增加一个数据集分值表，敬请期待！
+> 近期将参考[NLP-progress](http://nlpprogress.com/english/sentiment_analysis.html)的形式增加一个数据集分值表，敬请期待！
 
 ## Paper
 - **Effective LSTMs for Target-Dependent Sentiment Classification**. *Duyu Tang, Bing Qin, Xiaocheng Feng, Ting Liu*. (COLING 2016) [[paper]](https://www.aclweb.org/anthology/C16-1311)[[code]](https://drive.google.com/drive/folders/17RF8MZs456ov9MDiUYZp0SCGL6LvBQl6) - ***TD-LSTM TC-LSTM***
