@@ -110,6 +110,8 @@ Combining two or more ABSA's subtasks in one framework to produce results is an 
 - **A Challenge Dataset and Effective Models for Aspect-Based Sentiment Analysis**. *Qingnan Jiang, Lei Chen, Ruifeng Xu, Xiang Ao, Min Yang*. (EMNLP 2019) [[paper]](https://www.aclweb.org/anthology/D19-1654/)[[data]](https://github.com/siat-nlp/MAMS-for-ABSA) - ***MAMS***
 ### Normal Sentiment Analysis Dataset (Coarse-grained)
 - **Emotion Corpus Construction Based on Selection from Hashtags**. *Minglei Li, Yunfei Long, Qin Lu, Wenjie Li*. (LREC 2016) [[paper]](http://www.lrec-conf.org/proceedings/lrec2016/summaries/515.html)[[data]](https://github.com/CLUEbenchmark/CLUEmotionAnalysis2020)
+- **FABSA (An aspect-based sentiment analysis dataset of Customer Feedback reviews)** *Georgios Kontonatsios and Jordan Clive and Georgia Harrison and Thomas Metcalfe and Patrycja Sliwiak and Hassan Tahir and Aji Ghose* (Neurocomputing 2023) [[paper]](https://doi.org/10.1016/j.neucom.2023.126867)[[data]](https://huggingface.co/datasets/jordiclive/FABSA) - ***Customer Feedback ABSA***
+
 
 ## Survey & Review & Tutorial
 - **Sentiment Analysis and Opinion Mining**. *Bing Liu*. (AAAI 2011 Tutorial) [[slide]](https://www.seas.upenn.edu/~cis630/Sentiment-Analysis-tutorial-AAAI-2011.pdf)
